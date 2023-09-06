@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdMaster</string>
+    <string name="interstitial">Get Interstitial Ad</string>
+    <string name="ad_reward">Get Ad Reward</string>
+</resources>
