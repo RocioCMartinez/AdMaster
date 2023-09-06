@@ -22,4 +22,4 @@ The Get Ad Reward button will trigger Ad video and display a snackbar with rewar
 ### Resources
 
 Rey Oliva
-ChatGPT assisted with snackbar display
+ChatGPT assisted with reward snackbar
